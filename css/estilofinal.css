@@ -20,5 +20,18 @@
                 .alto{
                     height: 60px;
                 }
+.mediano{
+
+    width: 543px;
+}
+.linea{
+
+
+    width: 1px;
+
+}
+.contenedor{
+    display: inline-block;
+}
                 
                 
